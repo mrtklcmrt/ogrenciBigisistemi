@@ -4,7 +4,7 @@ public class bilgiSistemiMain {
     public static void main(String[] args) {
         Scanner mert = new Scanner(System.in);
 
-
+//j
         course history = new course("history" , 101);
         course fizik = new course("fizik", 102);
         course kimya = new course("kimya",103);
